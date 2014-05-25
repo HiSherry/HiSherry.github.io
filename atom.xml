@@ -4,7 +4,7 @@
   <title><![CDATA[Sherry's house]]></title>
   <link href="http://HiSherry.github.io/atom.xml" rel="self"/>
   <link href="http://HiSherry.github.io/"/>
-  <updated>2014-05-25T16:10:56+08:00</updated>
+  <updated>2014-05-25T16:36:04+08:00</updated>
   <id>http://HiSherry.github.io/</id>
   <author>
     <name><![CDATA[Sheery]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Ok2]]></title>
+    <link href="http://HiSherry.github.io/blog/2014/05/25/ok2/"/>
+    <updated>2014-05-25T16:34:28+08:00</updated>
+    <id>http://HiSherry.github.io/blog/2014/05/25/ok2</id>
+    <content type="html"><![CDATA[<p>yigeggjfkd gjfdgfkd</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Ok]]></title>
