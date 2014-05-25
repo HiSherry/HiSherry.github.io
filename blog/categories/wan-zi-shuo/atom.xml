@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Sherry's house]]></title>
-  <link href="http://HiSherry.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: 丸子说 | Sherry's house]]></title>
+  <link href="http://HiSherry.github.io/blog/categories/wan-zi-shuo/atom.xml" rel="self"/>
   <link href="http://HiSherry.github.io/"/>
   <updated>2014-05-25T15:29:06+08:00</updated>
   <id>http://HiSherry.github.io/</id>
